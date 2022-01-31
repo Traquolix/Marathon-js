@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.2",
     "prompt": "^1.2.1"
+  },
+  "devDependencies": {
+    "jade": "^1.11.0"
   }
 }
