@@ -2,7 +2,7 @@
  * Context : 30 days of JS - Marathon.
  * Version : My own, with my brain and nothing else except basic documentation.
  * Subject : https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md
- * TL;DR : Visualisation of border radius chosen by user.
+ * TL;DR : Visualisation of border radius chosen by user + generation of CSS/Possibility to copy CSS.
  */
 
 
