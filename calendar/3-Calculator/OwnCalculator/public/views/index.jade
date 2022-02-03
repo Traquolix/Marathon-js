@@ -1,0 +1,38 @@
+extends layout.jade
+block body
+    section.container
+        head
+            link(
+            rel='stylesheet'
+            href='css/style.css')
+        body
+            canvas#canvas1
+            form#form
+                input#topright(
+                type='number'
+                placeholder='Top right'
+                )
+                input#topleft(
+                type='number'
+                placeholder='Top left'
+                )
+                input#bottomright(
+                type='number'
+                placeholder='Bottom right'
+                )
+                input#bottomleft(
+                type='number'
+                placeholder='Bottom left'
+                )
+                button(
+                type='submit'
+                ) Submit
+            button#copyToClipboard(
+            onclick='copyToClipboardFunc()'
+            type='submit'
+            ) Copy CSS to clipboard
+            script(src='js/refresh.js')
+            script(src='js/clipboard.js')
+        footer.footer Traquolix © Company 2022
+
+

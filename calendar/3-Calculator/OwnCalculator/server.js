@@ -1,8 +1,8 @@
 /*
  * Context : Marathon of JS. Slow but steady.
  * Version : My own, with my brain and nothing else except basic documentation.
- * Subject : https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md
- * TL;DR : Visualisation of border radius chosen by user + generation of CSS/Possibility to copy CSS.
+ * Subject : https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md
+ * TL;DR : working Calculator visualisation without using eval()
  */
 
 

@@ -1,5 +1,5 @@
 /*
- * Context : 30 days of JS - Marathon.
+ * Context : Marathon of JS. Slow but steady.
  * Version : Searched corrections on internet.
  * Commentary : Found out that parseInt can also do base to base. Good to know.
  * Subject : https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md

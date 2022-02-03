@@ -1,5 +1,5 @@
 /*
- * Context : 30 days of JS - Marathon.
+ * Context : Marathon of JS. Slow but steady.
  * Version : My own, with my brain and nothing else except basic documentation.
  * Subject : https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md
  * TL;DR : 0 to 8 binary digits into their equivalent in decimal. Pure binary to decimal, no specific representation.
